@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Marcelo Melo, tenho 21 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN). Sou apaixonado por tecnologia e compartilho meus projetos pessoais através do meu Linktree, com o perfil chamado "[Marcelomelo.br](linktr.ee/marcelomelo.br)".
+Me chamo Marcelo Melo, tenho 21 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN). Sou apaixonado por tecnologia e compartilho meus projetos pessoais através do meu Linktree, com o perfil chamado "[marcelomelo.br](linktr.ee/marcelomelo.br)".
 
 <p align="left">
     <a href="https://g.co/kgs/uc8SgB6">
